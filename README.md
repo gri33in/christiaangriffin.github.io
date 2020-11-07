@@ -7,7 +7,7 @@ Java: 2 Years
 AngularJs: 1 Year
 
 Sub Tech Stacks: 
-JavaScript: 1 Year
+JavaScript: 1 Year 
 Oracle: 1 Year
 Angular: < 1 Year
 
